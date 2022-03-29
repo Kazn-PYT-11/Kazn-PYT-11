@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV</title>
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+<body>
+    
+    <header>
+        <h1>Moi-même</h1>
+        <img src="./img/avatar.jpg" alt="Avatar" width="60" height="60" >  
+    </header>
+
+    <div>
+        <section>
+            <h2>Mon experience</h2>
+            <hr>
+            <h3>Titre 1</h3>
+            <p><strong>Entreprise</strong></p>
+            <p><strong>de 2000 a 2000</strong></p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum quaerat architecto cum quas suscipit, <br>
+                numquam amet provident repudiandae nisi eius, explicabo illo consectetur totam? Sit ad adipisci esse aspernatur atque!</p>
+            <h3>Titre 2</h3>
+            <p><strong>Entreprise</strong></p>
+            <p><strong>de 2000 a 2000</strong></p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum quaerat architecto cum quas suscipit, <br> 
+                numquam amet provident repudiandae nisi eius, explicabo illo consectetur totam? Sit ad adipisci esse aspernatur atque!</p>
+            <h3>Titre 3</h3>
+            <p><strong>Entreprise</strong></p>
+            <p><strong>de 2000 a 2000</strong></p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum quaerat architecto cum quas suscipit, <br>
+                numquam amet provident repudiandae nisi eius, explicabo illo consectetur totam? Sit ad adipisci esse aspernatur atque!</p>
+        </section>
+
+        <section>
+            <h3>Mes compétences</h3>
+            <hr>
+                <ul>
+                    <li>HTML5 et CSS3</li>
+                    <li>Recherche <a href="http://google.com">Google</a> niveau avancé</li>
+                    <li>lorem</li>
+                    <li>ipsum</li>
+                </ul>
+            <img src="./img/html5.png" alt="HTML5" width="40">
+            <img src="./img/CSS3.png" alt="CSS3" width="30">
+            <img src="./img/javascript.png" alt="javascript" width="40">
+            <img src="./img/Chrome.png" alt="Chrome" width="40">
+        </section>
+
+        <section>
+            <h2>Mon experience</h2>
+            <hr>
+            <h3>Titre 1</h3>
+            <p><strong>Entreprise</strong></p>
+            <p><strong>de 2000 a 2000</strong></p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum quaerat architecto cum quas suscipit, <br>
+                numquam amet provident repudiandae nisi eius, explicabo illo consectetur totam? Sit ad adipisci esse aspernatur atque!</p>
+            <h3>Titre 2</h3>
+            <p><strong>Entreprise</strong></p>
+            <p><strong>de 2000 a 2000</strong></p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum quaerat architecto cum quas suscipit, <br>
+                numquam amet provident repudiandae nisi eius, explicabo illo consectetur totam? Sit ad adipisci esse aspernatur atque!</p>
+            <h3>Titre 3</h3>
+            <p><strong>Entreprise</strong></p>
+            <p><strong>de 2000 a 2000</strong></p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum quaerat architecto cum quas suscipit, <br>
+                numquam amet provident repudiandae nisi eius, explicabo illo consectetur totam? Sit ad adipisci esse aspernatur atque!</p>
+        </section>
+    </div>
+
+    <footer>
+
+    </footer>
+
+</body>
+</html>
