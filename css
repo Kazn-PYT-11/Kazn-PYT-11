@@ -12,8 +12,11 @@ body {
     margin: 0;
 }
 
+div {
+    display: flex;
+}
+
 section {
-    float: inline-start;
     width: 20;
     background-color: aliceblue;
     margin: 80px;
